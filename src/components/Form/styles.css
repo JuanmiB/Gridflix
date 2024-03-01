@@ -1,0 +1,30 @@
+.input-search{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    outline: none;
+    transition: 0.3s;
+    background-color: transparent;
+}
+form button{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    outline: none;
+    transition: 0.3s;
+    background-color: #363636;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    margin-left: 10px;
+}
+form {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
